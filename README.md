@@ -1,17 +1,47 @@
-This project allows the user to create a dynamically generated professional Read Me using the command line.
+# Command Line ReadMe
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ 
+## Description
 
-The following user input will be taken to create the Read Me:
+  The purpose of this project was to use my new knowledge of node to create a command line application that will create a professional README file. This thsu allows users to spend less time creating a README. Linked in the usage section is a video of how to use the application.
 
--The title of project
--Description
--Table of Contents
--Installation
--Usage
--License
--Contributing
--Tests
--Questions
+  ## Table Of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#test)
+  - [Contact](#contact)
 
-A badge for the license will be added at the top of the Read Me. A notice is added to the read me section titled License (after choosing type)  this notice explains which license the application is covered under.
+  
 
-Under the questions section the users Github profile link, email, and insturctions on how to reach user are added when the user inputs this information. 
+
+  ## Installation
+  
+  run npm i to install inquirer afterwards run node index.js
+
+  ## Usage
+
+  This is the link showing how to use the application https://watch.screencastify.com/v/Gspnf8EaCwX58BIKaYOp
+
+  ## License
+
+  This project is covered under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Information regarding this license can be found at (https://opensource.org/licenses/MIT)
+
+  ## Contributing
+
+  NA
+
+## Tests
+
+No testing was written for this application
+
+  ## Contact
+
+  JessDorgu
+
+  
+
+  jdorgu011@gmail.com
+
